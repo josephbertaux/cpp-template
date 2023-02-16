@@ -1,5 +1,5 @@
-# hello-world-template
-Template repository containing my preferred Makefile, used to make "hello world". It expects:
+# cpp-template
+Template repository containing my preferred Makefile. It expects:
 
 	a /src subdirectory contains source codes, possibly organized into other subdirectories
 
